@@ -1,0 +1,15 @@
+.contact-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.contact-form > input,
+.contact-form > button,
+.filter > input {
+  width: 300px;
+}
+
+.filter {
+  display: flex;
+  flex-direction: column;
+}

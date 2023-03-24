@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "baseUrl": "src",
+    "module": "ES6",
+    "jsx": "preserve",
+    "checkJs": true
+  },
+  "include": ["src"]
+}
